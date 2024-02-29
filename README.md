@@ -60,3 +60,14 @@ Setup:
 
 C# is a compiled language you will need to load this repo in Visual Studio and build it. This application was developed Visual Studio 2022.
 
+Steps to run:
+
+Clone this repository, open ToyRobot.sln in visual studio. Load and build the solution. 
+create a text file with a commands and save that txt file in the same repository.
+
+In Developer Powershell :
+open source\repos\ToyRobot\ToyRobot\bin\Debug\net8.0>
+then give ToyRobot.exe Test_inputs_1.txt(cretated txt file with commands).
+
+
+
