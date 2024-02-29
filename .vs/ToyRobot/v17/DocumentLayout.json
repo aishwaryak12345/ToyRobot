@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aishwarya.K\\source\\repos\\ToyRobot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E08372-68A6-495D-8495-53C6BC771858}|ToyRobot\\ToyRobot.csproj|c:\\users\\aishwarya.k\\source\\repos\\toyrobot\\toyrobot\\input_1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D0E08372-68A6-495D-8495-53C6BC771858}|ToyRobot\\ToyRobot.csproj|solutionrelative:toyrobot\\input_1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E08372-68A6-495D-8495-53C6BC771858}|ToyRobot\\ToyRobot.csproj|c:\\users\\aishwarya.k\\source\\repos\\toyrobot\\toyrobot\\toyrobot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D0E08372-68A6-495D-8495-53C6BC771858}|ToyRobot\\ToyRobot.csproj|solutionrelative:toyrobot\\toyrobot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C171B288-9046-4D4A-9C0E-7ADDFDC52569}|ToyRobottest\\ToyRobottest.csproj|c:\\users\\aishwarya.k\\source\\repos\\toyrobot\\toyrobottest\\simulatormove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C171B288-9046-4D4A-9C0E-7ADDFDC52569}|ToyRobottest\\ToyRobottest.csproj|solutionrelative:toyrobottest\\simulatormove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C171B288-9046-4D4A-9C0E-7ADDFDC52569}|ToyRobottest\\ToyRobottest.csproj|c:\\users\\aishwarya.k\\source\\repos\\toyrobot\\toyrobottest\\reportmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C171B288-9046-4D4A-9C0E-7ADDFDC52569}|ToyRobottest\\ToyRobottest.csproj|solutionrelative:toyrobottest\\reportmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C171B288-9046-4D4A-9C0E-7ADDFDC52569}|ToyRobottest\\ToyRobottest.csproj|c:\\users\\aishwarya.k\\source\\repos\\toyrobot\\toyrobottest\\placemove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C171B288-9046-4D4A-9C0E-7ADDFDC52569}|ToyRobottest\\ToyRobottest.csproj|solutionrelative:toyrobottest\\placemove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E08372-68A6-495D-8495-53C6BC771858}|ToyRobot\\ToyRobot.csproj|c:\\users\\aishwarya.k\\source\\repos\\toyrobot\\toyrobot\\simulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E08372-68A6-495D-8495-53C6BC771858}|ToyRobot\\ToyRobot.csproj|solutionrelative:toyrobot\\simulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToyRobot",
+              "DocumentMoniker": "C:\\Users\\Aishwarya.K\\source\\repos\\ToyRobot\\ToyRobot\\ToyRobot.csproj",
+              "RelativeDocumentMoniker": "ToyRobot\\ToyRobot.csproj",
+              "ToolTip": "C:\\Users\\Aishwarya.K\\source\\repos\\ToyRobot\\ToyRobot\\ToyRobot.csproj",
+              "RelativeToolTip": "ToyRobot\\ToyRobot.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-29T09:56:37.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Input_1.txt",
+              "DocumentMoniker": "C:\\Users\\Aishwarya.K\\source\\repos\\ToyRobot\\ToyRobot\\Input_1.txt",
+              "RelativeDocumentMoniker": "ToyRobot\\Input_1.txt",
+              "ToolTip": "C:\\Users\\Aishwarya.K\\source\\repos\\ToyRobot\\ToyRobot\\Input_1.txt",
+              "RelativeToolTip": "ToyRobot\\Input_1.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-02-29T10:19:51.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Simulator.cs",
+              "DocumentMoniker": "C:\\Users\\Aishwarya.K\\source\\repos\\ToyRobot\\ToyRobot\\Simulator.cs",
+              "RelativeDocumentMoniker": "ToyRobot\\Simulator.cs",
+              "ToolTip": "C:\\Users\\Aishwarya.K\\source\\repos\\ToyRobot\\ToyRobot\\Simulator.cs",
+              "RelativeToolTip": "ToyRobot\\Simulator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:44:56.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportMove.cs",
+              "DocumentMoniker": "C:\\Users\\Aishwarya.K\\source\\repos\\ToyRobot\\ToyRobottest\\ReportMove.cs",
+              "RelativeDocumentMoniker": "ToyRobottest\\ReportMove.cs",
+              "ToolTip": "C:\\Users\\Aishwarya.K\\source\\repos\\ToyRobot\\ToyRobottest\\ReportMove.cs",
+              "RelativeToolTip": "ToyRobottest\\ReportMove.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAADwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:29:56.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimulatorMove.cs",
+              "DocumentMoniker": "C:\\Users\\Aishwarya.K\\source\\repos\\ToyRobot\\ToyRobottest\\SimulatorMove.cs",
+              "RelativeDocumentMoniker": "ToyRobottest\\SimulatorMove.cs",
+              "ToolTip": "C:\\Users\\Aishwarya.K\\source\\repos\\ToyRobot\\ToyRobottest\\SimulatorMove.cs",
+              "RelativeToolTip": "ToyRobottest\\SimulatorMove.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAFMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:38:23.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlaceMove.cs",
+              "DocumentMoniker": "C:\\Users\\Aishwarya.K\\source\\repos\\ToyRobot\\ToyRobottest\\PlaceMove.cs",
+              "RelativeDocumentMoniker": "ToyRobottest\\PlaceMove.cs",
+              "ToolTip": "C:\\Users\\Aishwarya.K\\source\\repos\\ToyRobot\\ToyRobottest\\PlaceMove.cs",
+              "RelativeToolTip": "ToyRobottest\\PlaceMove.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAwBgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:20:37.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
